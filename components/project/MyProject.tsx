@@ -42,7 +42,7 @@ const projectsData = [
         id: 5,
         title: "SQL Checker | 2021",
         description: "This is a final year project I worked on in 2021. This software is created with C#, could check SQL Queries and mark scores and export into an excel file.",
-        image: 'SQLChecker.png',
+        image: 'sqlchecker.png',
         link: 'https://github.com/Mchei/SQLChecker2021',
         tag: ["All", "Desktop"],
     },
