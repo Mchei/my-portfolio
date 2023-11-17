@@ -14,14 +14,19 @@ const Hero = () => {
 
                 </p>
                 <div>
-                    <button className="rounded-full mr-4 px-6 py-3 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white"> Download CV </button>
+                <a href="MichaelChanPakHei-resume.pdf" download>
+                <button className="rounded-full mr-4 px-6 py-3 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
+                    Download CV
+                </button>
+                </a>
+
                 </div>
             </div>
 
             <div className="col-span-5 place-self-center py-7">
                 <div className=" mb-5 py-8">
                     <Image 
-                    src="/icon.PNG"
+                    src="icon.png"
                     width={480}
                     height={48}
                     alt="Icon"

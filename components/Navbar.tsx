@@ -22,8 +22,8 @@ const Navbar = () => {
 
   return (
     <nav className='fixed top-0 left-5 right-5 z-10 bg-[#121212] bg-opacity-80'>
-      <div className='flex flex-wrap items-center justify-between mx-auto p-12'>
-        <Link className='text-2xl md:text-5xl text-white font-semibold' href='/'>
+      <div className='flex flex-wrap items-center justify-between mx-auto py-8'>
+        <Link className='text-2xl md:text-4xl text-white font-semibold' href='/'>
             Michael Chan
         </Link>
         <div className='mobile-menu md:hidden'>
