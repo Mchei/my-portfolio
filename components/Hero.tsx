@@ -20,9 +20,15 @@ const Hero = () => {
                 </button>
                 </a>
 
-                <a href="https://github.com/Mchei/" download>
+                <a href="https://github.com/Mchei/">
                 <button className="rounded-full mr-4 px-6 py-3 bg-gradient-to-br from-pink-500 via-purple-500 to-blue-500 hover:bg-slate-200 text-white">
                     My Github
+                </button>
+                </a>
+
+                <a href="https://www.linkedin.com/in/pak-hei-michael-chan-313756256/">
+                <button className="rounded-full mr-4 px-6 py-3 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
+                    Linkedin
                 </button>
                 </a>
                 </div>
